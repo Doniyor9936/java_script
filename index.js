@@ -1,2 +1,3 @@
 console.log("salom");
-rozajon
+"rozajon"
+"amirbek"
